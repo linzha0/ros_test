@@ -1,0 +1,8 @@
+prefix=/home/odroid/ros_test/devel
+
+Name: my_nodelet
+Description: Description of my_nodelet
+Version: 0.0.1
+Cflags: -I/home/odroid/ros_test/src/my_nodelet/include -I/usr/include
+Libs: -L/home/odroid/ros_test/devel/lib -lmy_nodelet -l:/usr/lib/arm-linux-gnueabihf/libboost_thread.so -l:/usr/lib/arm-linux-gnueabihf/libpthread.so
+Requires: roscpp std_msgs nodelet message_filters sensor_msgs

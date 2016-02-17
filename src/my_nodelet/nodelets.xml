@@ -1,0 +1,7 @@
+<library path="lib/libmy_nodelet">
+	<class name="my_nodelet/my_nodelet_main" type="my_nodelet::MyNodelet" base_class_type="nodelet::Nodelet">
+	<description>
+		A nodelet example for algorithm struecture.
+    </description>
+    </class>
+</library>

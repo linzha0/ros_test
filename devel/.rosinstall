@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/odroid/ros_test/devel/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/odroid/ros_test/devel
+install: false
+install_space: /home/odroid/ros_test/install
+profile: default
+source_space: /home/odroid/ros_test/src
+workspace: /home/odroid/ros_test

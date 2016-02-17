@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "my_nodelet")
+set(my_nodelet_MAINTAINER "odroid <linzhao@zjtmxk.com>")
+set(my_nodelet_DEPRECATED "")
+set(my_nodelet_VERSION "0.0.1")
+set(my_nodelet_BUILD_DEPENDS "boost" "roscpp" "std_msgs" "nodelet" "message_filters" "sensor_msgs")
+set(my_nodelet_RUN_DEPENDS "boost" "roscpp" "std_msgs" "nodelet" "message_filters" "sensor_msgs")
+set(my_nodelet_BUILDTOOL_DEPENDS "catkin")
